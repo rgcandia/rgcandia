@@ -17,4 +17,6 @@ Socket.io
 Sequelize
 PostgreSQL
 
-
+alejandrogcandia@gmail.com
+https://github.com/rgcandia
+tel :1563688406
