@@ -1,5 +1,7 @@
  Hola Soy Alejandro Gonzalez Candia 👋
- Full stack developer, apasinado por la tecnologia, mi ultimo proyecto una aplicación de chat multimedia, 
+ Full stack developer, apasinado por la tecnologia,
+ Mi ultimo proyecto una aplicación de chat multimedia donde consolide, el trabajo en quipo, 
+ Liderazgo y  metodologias agiles. 
 
 
 My Tech skills 💻:
