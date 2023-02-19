@@ -18,5 +18,7 @@ Sequelize
 PostgreSQL
 
 alejandrogcandia@gmail.com
-(https://www.linkedin.com/in/ale-gonzalez-candia-4a7ab2230/)
+
+https://www.linkedin.com/in/ale-gonzalez-candia-4a7ab2230/
+
 tel :1563688406
