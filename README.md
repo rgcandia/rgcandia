@@ -1,7 +1,7 @@
  Hola Soy Alejandro Gonzalez Candia 👋
  Full stack developer, apasinado por la tecnologia,
  Entré al mundo de la programación por hobby , pero descubrí una pasión.
- Actualmente me encuentro capacitandome para hacer de lo que me gusta  mi profesión.
+ Actualmente me encuentro capacitándome para hacer de lo que me gusta  mi profesión.
 
 
 My Tech skills 💻:
